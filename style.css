@@ -652,12 +652,12 @@ blockquote {
 
 .download-cv-form {
   margin-top: -138px;
-  margin-left: 820px;
+  margin-left: 790px;
 }
 
 .download-cv-form button {
   padding: 1rem 2rem;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-family: inherit;
   color: #000;
   background: rgba(255, 255, 255, 0.1);
